@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="assets/banner.png" width="100%" alt="Sergio Ahumada - Developer Banner">
+
+</div>
 <div align="center">
 
 # 👋 HI, I'M SERGIO AHUMADA
