@@ -1,64 +1,88 @@
+
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Sergio Ahumada - Developer Banner">
+<img src="assets/banner.png" width="100%" alt="Sergio Ahumada Developer Banner"/>
 
-</div>
-<div align="center">
+<br/>
 
-# 👋 HI, I'M SERGIO AHUMADA
+# SERGIO AHUMADA
 
-### 💻 Aspiring Software Developer
+### 💻 SOFTWARE DEVELOPER IN PROGRESS
 
-*Building my future, one line of code at a time.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=DAW+Student;Learning+Java+%26+Web+Development;Building+my+future+with+code;Always+learning%2C+always+improving" />
 
-🎓 DAW Student · Spain
+<br/>
 
-[![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk)](https://www.java.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-Learning-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Learning-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ahumadasergio855-cyber)
 
 </div>
 
 ---
 
-## 🚀 ABOUT ME
+## 🧑‍💻 ABOUT ME
 
-I'm Sergio, a Web Application Development student from Spain.
+```java
+public class Sergio {
+
+    String name = "Sergio Ahumada";
+    String role = "DAW Student";
+    String location = "Spain";
+
+    String[] currentlyLearning = {
+        "Java",
+        "HTML5",
+        "CSS3",
+        "Object-Oriented Programming"
+    };
+
+    String goal = "Become a Software Developer";
+}
+```
+
+I'm a Web Application Development student passionate about programming, technology and creating useful applications.
 
 - 🎓 Studying Web Application Development (DAW).
 - ☕ Learning Java and Object-Oriented Programming.
 - 🌐 Practicing HTML5 and CSS3.
-- 🛠️ Using NetBeans, VS Code and GitHub.
-- 📚 Building projects and improving every day.
-- 🎯 Working towards my first professional experience.
+- 🛠️ Working with NetBeans, VS Code and GitHub.
+- 🚀 Building projects and improving every day.
 
-## 🧰 TECHNOLOGIES & TOOLS
+## ⚡ TECHNOLOGIES & TOOLS
 
-| Technology | Current focus |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode,idea&theme=dark" />
+
+</div>
+
+## 📂 FEATURED PROJECTS
+
+| Project | Description |
 |---|---|
-| Java | Programming fundamentals |
-| HTML5 | Web structure |
-| CSS3 | Web design |
-| Git & GitHub | Version control |
-| NetBeans | Java development |
-| VS Code | Web development |
+| ☕ Java Programming | Java exercises and learning |
+| 🌐 LenguajeDeMarcas | HTML and CSS practice |
+| 🗄️ Base-de-Datos | Database learning |
+| 🎵 OpenMusic | Personal project |
 
-## 📂 MY PROJECTS
+## 📊 GITHUB STATISTICS
 
-Here are some of my repositories:
+<div align="center">
 
-- ☕ Java programming exercises
-- 🌐 HTML and CSS projects
-- 🗄️ Database exercises
-- 🎵 OpenMusic
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahumadasergio855-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-## 🎯 MY GOALS
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahumadasergio855-cyber&layout=compact&theme=tokyonight&hide_border=true" />
 
-- Improve my Java skills.
-- Learn JavaScript and databases.
-- Develop complete web applications.
-- Build my own personal projects.
-- Become a professional software developer.
+</div>
+
+## 🎯 MY DEVELOPER JOURNEY
+
+- [x] Start learning programming
+- [x] Learn Java fundamentals
+- [x] Start HTML and CSS
+- [ ] Improve Java and OOP
+- [ ] Learn JavaScript
+- [ ] Learn databases and backend
+- [ ] Build complete applications
 
 ---
 
@@ -66,6 +90,8 @@ Here are some of my repositories:
 
 ### BUILD • LEARN • IMPROVE • REPEAT
 
-*Every expert was once a beginner.* 🚀
+*Every expert was once a beginner.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:2563EB&height=100&section=footer" />
 
 </div>
